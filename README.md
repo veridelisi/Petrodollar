@@ -1,20 +1,60 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Dollar, Eurodollar, and the Myths of Petrodollar and De-dollarisation
 
-# Run and deploy your AI Studio app
+An interactive visual companion to the article:
 
-This contains everything you need to run your app locally.
+> *Yılmaz, E., Bodur, B., & Öncü, T. S. (2026).*  
+> *Dollar, Eurodollar, and the Myths of Petrodollar and De-dollarisation*  
+> Economic and Political Weekly, Vol. 61, Issue No. 20.
 
-View your app in AI Studio: https://ai.studio/apps/067cb384-f4d5-4390-b98c-aabbcd60709c
+## Overview
 
-## Run Locally
+This project explores the structure of the modern global dollar system through interactive visual storytelling.
 
-**Prerequisites:**  Node.js
+The presentation challenges common narratives surrounding:
+- Petrodollar recycling
+- De-dollarisation
+- Offshore dollar creation
+- Eurodollar markets
+- SWIFT payments
+- Global liquidity dynamics
 
+Rather than focusing on geopolitical slogans, the project emphasizes the balance-sheet mechanics and monetary infrastructure underlying the international monetary system.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Themes
+
+- Dollar dominance in global payments
+- Eurodollar money creation
+- Offshore banking networks
+- Bretton Woods transformation
+- Petrodollar myths
+- Global liquidity and financial plumbing
+- Reserve currency dynamics
+
+## Live Website
+
+🌐 https://veridelisi.github.io/Petrodollar/
+
+## Built With
+
+- HTML5
+- CSS3
+- JavaScript
+- GitHub Pages
+
+## Authors
+
+- Engin Yılmaz
+- Boran Bodur
+- T. Sabri Öncü
+
+## Citation
+
+```bibtex
+@article{yilmaz2026dollar,
+  title={Dollar, Eurodollar, and the Myths of Petrodollar and De-dollarisation},
+  author={Yılmaz, Engin and Bodur, Boran and Öncü, T. Sabri},
+  journal={Economic and Political Weekly},
+  volume={61},
+  number={20},
+  year={2026}
+}
