@@ -74,7 +74,7 @@ export const slides: SlideContent[] = [
     figureNumber: "Figure 1",
     subtitle: "US Share of Global Monetary Gold Stock",
     image: fig1,
-    content: "The dollar's ascent began with WWI. By 1919, the US held nearly 40% of the world's monetary gold stock, up from 23% in 1913. By WWII (1945), this reached a peak of nearly 65%.",
+    content: "The dollar's ascent began with WWI. By 1919, the US held nearly 40% of the world's monetary gold stock, up from 23% in 1913. By WWII (1945), this reached a peak of nearly 67%.",
     graphExplanation: "Figure 1 tracks the US share of global monetary gold from 1913 to 1945. It illustrates how the US transitioned from a minor gold holder to the world's dominant monetary power, supplying goods to war-torn Europe in exchange for gold, eventually holding 2/3rds of global gold reserves.",
     layout: "graph"
   },
