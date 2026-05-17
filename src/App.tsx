@@ -238,13 +238,20 @@ export default function App() {
                 <div className="space-y-2">
                   <h4 className="text-[10px] font-mono uppercase tracking-widest opacity-40">Context</h4>
                   <p className="text-sm leading-relaxed text-black/70">
-                    This analysis challenges the neoclassical interpretation by focusing on the balance sheets of commercial banks and the clearing mechanisms of the Federal Reserve.
+                    Since the attack on Iran by Israel and the United States (US) that began on 28 February 2026, there
+has been intense debate regarding petrodollar and dedollarisation. Our objective in this brief
+note—based on publicly available data—is to show that there has been no such thing as the
+petrodollar, and that although the US dollar's dominance has been eroding for some time, the world
+has not yet reached a point of global dedollarisation. In what follows, we begin with the US return
+to the gold standard in 1879, which laid the foundation for how the dollar overtook the pound
+sterling to become the dominant reserve and trade currency. We then emphasise the significance
+of the eurodollar market that emerged in the early 1950s, while tracing the evolution since 1879.
                   </p>
                 </div>
                 <div className="space-y-2">
                   <h4 className="text-[10px] font-mono uppercase tracking-widest opacity-40">Observation</h4>
                   <p className="text-sm leading-relaxed text-black/70 italic border-l-2 border-black/10 pl-4 font-serif">
-                    "Liquidity is not a stock, but a flow managed through offshore liabilities."
+                    "The dollar's share of global official reserves has indeed declined gradually over the past quarter century. However, no other currency has emerged to displace it. The euro has stagnated, the yuan remains marginal, and gold's rising share reflects a sanction hedge rather than a shift away from the dollar."
                   </p>
                 </div>
                 {currentSlide.graphExplanation && (
