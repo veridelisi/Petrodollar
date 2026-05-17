@@ -5,7 +5,6 @@ An interactive visual companion to the article:
 > *Yılmaz, E., Bodur, B., & Öncü, T. S. (2026).*  
 > *Dollar, Eurodollar, and the Myths of Petrodollar and De-dollarisation*  
 > Economic and Political Weekly, Vol. 61, Issue No. 20.
-> 🌐 https://www.epw.in/journal/h-t-parekh-finance-column/dollar-eurodollar-and-myths-petrodollar-and-de.html
 
 ## Overview
 
@@ -60,3 +59,14 @@ Rather than focusing on geopolitical slogans, the project emphasizes the balance
   number={20},
   year={2026}
 }
+
+## Published Article
+
+The project is based on the following published article in *Economic and Political Weekly*:
+
+Yılmaz, E., Bodur, B., & Öncü, T. S. (2026).  
+*Dollar, Eurodollar, and the Myths of Petrodollar and De-dollarisation.*  
+Economic and Political Weekly, Vol. 61, Issue No. 20.
+
+📖 Read the article here:  
+https://www.epw.in/journal/h-t-parekh-finance-column/dollar-eurodollar-and-myths-petrodollar-and-de.html
